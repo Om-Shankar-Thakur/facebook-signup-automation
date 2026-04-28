@@ -1,4 +1,4 @@
-# Facebook Signup Automation – Mini Project
+# Facebook Signup Automation
 
 ## Overview
 

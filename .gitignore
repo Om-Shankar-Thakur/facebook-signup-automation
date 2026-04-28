@@ -1,0 +1,17 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# TestNG
+test-output/
+testng-failed.xml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
